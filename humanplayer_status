@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    
+  <head>
+    <title>Human Player Status/Activity Translations</title>
+      <style>
+    body {
+background: repeating-linear-gradient(
+        90deg,
+        #FFFBE0,
+        #FFFBE0 4px,
+        #FFEDE5 4px,
+        #FFEDE5 10px
+      );
+font-family: Segoe UI, Helvetica, Arial, sans-serif;
+    }
+  </style>
+      <div style="
+  width: 100%;
+  background-color: #E3CCE0;
+  padding: 4px;
+  text-align: center;
+">
+  <h1 style="text-align: center;">Human Player Status/Activity Translations</h1>
+  </div>
+  </head>
+  <body>
+      <article style="padding:1.3rem;">
+           <p><i>Originally written in 2008</i></p>
+           <p><img src="images/humanplayer1.avif" alt="humanplayer1" style="max-width:100%; height:auto;"></p>
+  <p><u><b>Advice of the Day Translations</b></u>
+  <ul>
+  <li>きょうはうっかりミスにちゅういしよう！ = Be careful of mistakes today!</li>
+  <li>きょうはあたまをつかいすぎ？やすもう = Are you thinking too much today? Let’s rest.</li>
+  <li>きょうはのうをつかうしごとがはかどりそう = Today, work that uses the brain seems to be progressing well.</li>
+  <li>きょうはスポーツでかつやくできそう = I think I can be active in sports today.</li>
+  <li>きょうはこくはくするとうまくいきそう = Love confessions will be successful today.</li>
+  <li>きょうはこころがカゼをひきそう？リラックス! = Is your heart catching a cold (feeling emotionally down)? Relax!</li>
+</ul></p>
+
+  <p><u><b>Activity Translations</b></u>
+  
+  <p><img src="test.com" alt="test" width="150"> コンビニでパイとちゅう = Part time job at a convenience store</p>
+
+<p><img src="test.com" alt="test" width="150"> でんしゃで うちに かえります = Taking the train home</p>
+
+<p><img src="test.com" alt="test" width="150"> スポーツ しています = Playing sports</p>
+
+<p><img src="test.com" alt="test" width="150"> ほんを よんでいます = Reading a book</p>
+
+<p><img src="test.com" alt="test" width="150"> びょうきに なりました = I fell ill</p>
+
+<p><img src="test.com" alt="test" width="150"> ともだちと ランチ しています = Lunch with a friend</p>
+
+<p><img src="test.com" alt="test" width="150"> ごはんを たべています = Having a meal</p>
+
+<p><img src="test.com" alt="test" width="150"> ともだちと あそびにきました = I came to play with my friend</p>
+
+<p><img src="test.com" alt="test" width="150"> かいもの しています = Going shopping</p>
+
+<p><img src="test.com" alt="test" width="150"> ジムで トレーニングちゅう = Training at the gym</p>
+
+<p><img src="test.com" alt="test" width="150"> いえで べんきょうちゅう = Studying at home</p>
+
+<p><img src="test.com" alt="test" width="150"> すきなひとのことを かんがえています = Thinking about the person I like</p>
+
+<p><img src="test.com" alt="test" width="150"> ひるね しています = Taking an afternoon nap</p>
+
+<p><img src="test.com" alt="test" width="150"> へんなふくを きようとしています = I'm trying to wear strange clothes</p>
+
+<p><img src="test.com" alt="test" width="150"> ネットで あやしいサイトを みています = I'm visiting a suspicious site on the Internet</p>
+
+<p><img src="test.com" alt="test" width="150"> えいかいわスクールに きています = I'm attending English Conversation School</p>
+
+<p><img src="test.com" alt="test" width="150"> テストちゅう = Taking a test</p>
+
+<p><img src="test.com" alt="test" width="150"> おちゃ しています = Sipping tea</p>
+
+<p><img src="test.com" alt="test" width="150"> ごうコンで もりあがっています = The mixer party is exciting</p>
+
+<p><img src="test.com" alt="test" width="150"> ぶかのめんどうを よくみています = I take good care of my subordinates</p>
+
+<p><img src="test.com" alt="test" width="150"> なまけて います = I'm being lazy</p>
+
+<p><img src="test.com" alt="test" width="150"> メールを チェックしています = Checking emails</p>
+
+<p><img src="test.com" alt="test" width="150"> ひとのはなしを よくきいています = I often listen to people's stories</p>
+
+<p><img src="test.com" alt="test" width="150"> じょうしに ペコペコしています = Sucking up to my boss</p>
+
+<p><img src="test.com" alt="test" width="150"> かいぎを まじめにきいています = I'm listening to the meeting seriously</p>
+
+<p><img src="test.com" alt="test" width="150"> バリバリ べんきょうしています = Studying hard</p>
+
+<p><img src="test.com" alt="test" width="150"> テストがかえってくるので きんちょうしています = I'm nervous because the test results are back</p>
+
+<p><img src="test.com" alt="test" width="150"> テストで 90てんを とりました = I got 90 points in the test</p>
+
+<p><img src="test.com" alt="test" width="150"> いいわけ しています = I am making excuses</p>
+
+<p><img src="test.com" alt="test" width="150"> まちを ぶらぶら あるいています = Walking around the city</p>
+
+<p><img src="test.com" alt="test" width="150"> わたしの たんじょうびパーティー! = It's my birthday party!</p>
+
+</article>
+      <span style="
+    background-color: #FFFFDB;
+    border: 3px solid #7A7A56;
+    padding: 3px 12px;
+    border-radius: 10px;
+    display: inline-block;
+  ">
+    <a href="index.html"
+       style="
+         color: inherit;
+         text-decoration: none;
+       ">
+      <b>Back to homepage</b>
+    </a>
+  </span>
+  </body>
+</html>
